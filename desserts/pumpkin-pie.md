@@ -13,7 +13,7 @@
 
 - Pie shell
 - Nutmeg
-- Can of evaporated milk
+- Can of evaporated oat milk
 - 0.4 cup sugar
 - 0.5 tsp salt
 - 2 tsp cinnamon
@@ -33,5 +33,5 @@
 
 ## Baking
 
-- 15 min at 425 F
-- 40-50 min at 350 F
+- 15 min at 425 F (220 °C)
+- 40-50 min at 350 F (175 °C)

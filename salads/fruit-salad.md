@@ -9,9 +9,11 @@
 - 1 banana, sliced
 - 1 apple, cored and chopped
 - 1 orange, peeled and sectioned
+- 1 avocado, sliced
 - Juice of 1 lime or lemon (to prevent the fruit from browning and to add a bit
   of zing)
 - Fresh mint leaves (optional, for garnish)
+- whipped cream / vegan chipped cream / vanilla ice cream (optional, for serving)
 
 
 ## Instructions
@@ -37,3 +39,4 @@
 
 5. **Serve:**
    - Enjoy the fruit salad as is, or chill it in the refrigerator for about an hour before serving for a refreshing treat.
+   - add whipped cream or ice cream on top if you wish
